@@ -1,4 +1,5 @@
 import time
+import os
 print("amount of cycles:")
 cycles=int(input())
 print("amount of exercises:")
@@ -14,8 +15,10 @@ while ic<cycles:
     it=0
     while it<tabatas:
         print("tabata number " + str(it))
-        time.sleep(extime)
+        time.sleep(extime - 3)
+        os.system("play beep-01a.wav")
         print("pause")
+        os.system("play beep-01a.wav")
         time.sleep(ptime)
         it+=1
     ic+=1
