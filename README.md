@@ -8,5 +8,6 @@ Use:
 3. python3 main.py
 
 If you think these few lines of python are more than just minimalistic you are welcome to sweeten it up a little bit.
+
 Known issues
 -sound terminal output
