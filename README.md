@@ -17,3 +17,5 @@ If you think these few lines of python are more than just minimalistic you are w
 Known issues
 
 -sound terminal output
+
+-need for minimal pause and exercise length
