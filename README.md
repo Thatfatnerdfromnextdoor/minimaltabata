@@ -2,6 +2,11 @@
 minimalistic terminal tabata app
 (tabata is that kind of sport most women do during midlife crisis, but with the right exercises, everybody can get quite rekt)
 
+Dependencies:
+
+sox
+
+
 Use:
 1. unzip
 2. cd /path/to/unzipped/directory
