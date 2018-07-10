@@ -1,5 +1,6 @@
 # minimaltabata
-minimalistic terminal tabata app
+minimalistic terminal tabata app for Linux
+
 (tabata is that kind of sport most women do during midlife crisis, but with the right exercises, everybody can get quite rekt)
 
 Dependencies:
